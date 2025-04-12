@@ -77,3 +77,30 @@ button {
     justify-content: space-between;
     padding-top: 100px;
 }
+
+.header2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+    padding: 16px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.items {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 48px;
+    text-align: center;
+}
+
+.second-container {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+}
