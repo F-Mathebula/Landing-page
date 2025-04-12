@@ -4,7 +4,7 @@ body {
     min-height: 100vh;
 }
 
-.hero {
+.container {
     background-color: #1f2937;
     padding-left: 150px;
     padding-right: 150px;
@@ -71,7 +71,7 @@ button {
     padding-left: 0px;
 }
 
-.hero-main {
+.wrapper {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
