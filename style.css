@@ -97,6 +97,7 @@ img {
     display: flex;
     justify-content: space-between;
     margin: 48px;
+    gap: 20px;
     text-align: center;
 }
 
