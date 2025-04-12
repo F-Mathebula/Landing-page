@@ -76,6 +76,7 @@ button {
     align-items: flex-end;
     justify-content: space-between;
     padding-top: 100px;
+    flex: 1;
 }
 
 .header2 {
@@ -99,7 +100,12 @@ img {
     text-align: center;
 }
 
+.item {
+    flex: 1;
+}
+
 .second-container {
+    margin: auto;
     padding-left: 200px;
     padding-right: 200px;
     padding-bottom: 200px;
