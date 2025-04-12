@@ -60,7 +60,7 @@ button {
 
 .sign-up {
     background-color: royalblue;
-    border: 1px soid royalblue;
+    border: 1px solid royalblue;
     color: white;
 }
 
@@ -112,7 +112,7 @@ img {
 
 .quote-section {
     background-color: #e5e7eb;
-    padding: 80px 200px;
+    padding: 80px 300px;
 }
 
 .quote {
@@ -121,8 +121,29 @@ img {
     color: #1f2937;
 }
 
-h3 {
+.mini-quote {
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
+}
+
+.header3 {
+    display: flex;
+    align-items: flex-start;
+    color: #ffff;
+}
+
+.modal {
+    margin: 100px 100px;
+    border-radius: 10px;
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sign {
+    background-color: #3882f6;
+    border: 1px solid #ffff;
+    color: white;
 }
