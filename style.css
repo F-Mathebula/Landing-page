@@ -4,7 +4,7 @@ body {
     min-height: 100vh;
 }
 
-.container {
+.hero {
     background-color: #1f2937;
     padding-left: 150px;
     padding-right: 150px;
@@ -81,7 +81,7 @@ button {
     flex: 1;
 }
 
-.header2 {
+.header-2 {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
@@ -107,7 +107,7 @@ img {
     flex: 1;
 }
 
-.second-container {
+.container {
     margin: auto;
     padding: 30px 200px;
 }
