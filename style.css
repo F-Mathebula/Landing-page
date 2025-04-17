@@ -65,20 +65,24 @@ button {
     transition: background-color 0.3s ease;
 }
 
-.image {
-    border: 3px solid pink;
+.hero-image {
     width: 680px;
     height: 200px;
     padding-left: 0px;
+    flex: 1;
 }
 
 
-.wrapper {
+.hero-section {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
     padding-top: 100px;
+}
+
+.hero-text {
     flex: 1;
+    padding-right: 50px;
 }
 
 .header-2 {
@@ -89,9 +93,9 @@ button {
     padding: 16px;
 }
 
-img {
-    width: 100px;
-    height: 100px;
+.hero-image img {
+    width: 100%;
+    border-radius: 10px;
 }
 
 .items {
